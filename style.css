@@ -1,0 +1,69 @@
+.primary-1 { background-color: #FF9200 }
+.primary-2 { background-color: #BF8230 }
+.primary-3 { background-color: #A65F00 }
+.primary-4 { background-color: #FFAD40 }
+.primary-5 { background-color: #FFC373 }
+
+.complement-1 { background-color: #0B61A4 }
+.complement-2 { background-color: #25567B }
+.complement-3 { background-color: #033E6B }
+.complement-4 { background-color: #3F92D2 }
+.complement-5 { background-color: #66A3D2 }
+
+.debub_border{ 
+	border:1px dotted #00FF00;	
+}
+
+body {
+	background-color:#AAAAAA
+}
+
+header {
+	background-color:#FFAD40;
+	color:#A65F00;
+	padding-top:30px;
+	padding-bottom:5px;
+	padding-left:10px;
+	padding-right:10px;
+	margin:0px;
+}
+
+nav {
+	background-color:#AAAAAA;
+	margin:2px 1px;
+	padding:2px 0px;
+}
+
+nav p{
+	background-color:#A65F00;
+	list-style:none;
+	display:inline;
+	margin:0px;
+	padding:2px;
+}
+
+nav p:hover{
+	background-color: #FF9200;
+}
+
+nav .selected{
+	background-color: #FF9200;
+}
+
+div .main {
+	background-color: #FFFFFF;
+	padding:10px 0px;
+}
+
+footer {
+	background-color: #A65F00;
+	color: #FF9200;
+	border: 1px solid #FFC373;
+	margin: 10px 1px;
+	padding: 0px;
+}
+
+footer p{
+	margin: 0px;
+	padding: 0px;
+}
