@@ -15,10 +15,12 @@
 }
 
 body {
-	background-color:#AAAAAA
+	font-family:'Signika', sans-serif;
+	background-color:#AAAAAA;
 }
 
 header {
+	font-family:'Gentium Basic', sans-serif;
 	background-color:#FFAD40;
 	color:#A65F00;
 	padding-top:30px;
