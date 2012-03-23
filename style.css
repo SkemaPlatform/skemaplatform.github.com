@@ -125,6 +125,32 @@ div .main a:hover{
 	color: #FFE773;
 }
 
+.main p.imgs{
+	padding: 0px;
+	margin: 0px;
+}
+
+.main img{
+	float: left;
+	display: block;
+	padding: 0px;
+	margin: 0px;
+	border: 1px dashed #000;
+}
+
+.main img#img01{
+	margin-right: 2px;
+}
+
+.main img#img02{
+	margin-left: 2px;
+	margin-right: 2px;
+}
+
+.main img#img03{
+	margin-left: 2px;
+}
+
 div .left {
 	float: left;
 	width: 380px;
