@@ -107,6 +107,7 @@ header h1{
 div .main {
 	background-color: #FFFFFF;
 	width: 915px;
+	min-height: 400px;
 	margin:0px auto;
 	padding:20px 10px;
 }
@@ -153,14 +154,14 @@ div .main a:hover{
 
 div .left {
 	float: left;
-	width: 380px;
+	width: 370px;
 	padding: 10px 20px;	
 	border-right: 1px dotted;
 }
 
 div .rigth {
 	float: right;
-	width: 470px;
+	width: 460px;
 	padding: 10px 20px;	
 }
 
