@@ -98,9 +98,9 @@ header h1{
 
 div .main {
 	background-color: #FFFFFF;
-	width: 935px;
+	width: 915px;
 	margin:0px auto;
-	padding:10px 0px;
+	padding:20px 10px;
 }
 
 .ttl{
@@ -136,23 +136,25 @@ div .cleaner{
 }
 
 footer {
+	position: relative;
+	background-color: #FFFFFF;
+	width: 933px;
+	margin: 0px auto;
+	padding: 0px;
+	border: 1px solid #FFFFFF;
+}
+
+footer p{
 	background-color: #FFB273;
 	color: #A64B00;
 	text-align: center;
-	width: 933px;
-	height: 28px;
-	margin: 0px auto;
+	margin: 5px 2px;
 	padding: 0px;
 	border-top: 1px solid #FF7400;
 	border-bottom: 1px solid #FF7400;
 }
 
-div .main footer a{
+footer a{
 	font-weight: bold;
 	color: #A64B00;
-}
-
-div .main footer p{
-	margin: 0px;
-	padding: 0px;
 }
